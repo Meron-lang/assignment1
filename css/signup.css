@@ -9,7 +9,7 @@ body{
 #fm{
   width: 500px;
 height: 500px;
-background-color:lightslategray;
+background-color:black;
 margin-left: 30%;
 margin-right: 30%;
 margin-top: 5%;
@@ -22,8 +22,8 @@ border-left-width: 20px;
 border-bottom-width: 20px;
 border-right-width: 20px;
 border-block-end-width: 20px;
-opacity: 0.9;
-border-radius: 20px;
+opacity: 0.5;
+border-radius: 50px;
 }
 .jumbotron{
   margin: 100px;
@@ -74,4 +74,25 @@ h4 a{
 }
 #Rem{
   text-align: center;
+}
+#ln{
+  height: 20px;
+  border-radius: 30px;
+}
+#fn{
+  height: 20px;
+  border-radius: 30px;
+}
+#psw{
+  height: 20px;
+  border-radius: 30px;
+}
+#cpsw{
+  height: 20px;
+  border-radius: 30px;
+}
+#signup{
+  height: 30px;
+  border-radius: 30px;
+  background-color: chartreuse;
 }
